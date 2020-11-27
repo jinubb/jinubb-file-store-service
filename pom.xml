@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example.filestore</groupId>
-	<artifactId>DemoFileStore</artifactId>
+	<artifactId>jinubb-file-store-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>DemoFileStore</name>
-	<description>File upload and download API server by jinubb</description>
+	<name>jinubb-file-store-service</name>
+	<description>File upload and download API server</description>
 
 	<properties>
 		<java.version>1.8</java.version>
